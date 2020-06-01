@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/hyr/CLionProjects/Assignment_5/UTF8string.hpp
+string
+-
+
+/cygdrive/c/Users/hyr/CLionProjects/Assignment_5/testUTF8string.cpp
+iostream
+-
+UTF8string.hpp
+/cygdrive/c/Users/hyr/CLionProjects/Assignment_5/UTF8string.hpp
+

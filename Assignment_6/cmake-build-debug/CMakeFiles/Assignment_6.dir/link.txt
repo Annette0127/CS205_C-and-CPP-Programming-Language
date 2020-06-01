@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Assignment_6.dir/main.cpp.o CMakeFiles/Assignment_6.dir/box.cpp.o  -o Assignment_6.exe -Wl,--out-implib,libAssignment_6.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

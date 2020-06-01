@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Assignment_5.dir/testUTF8string.cpp.o CMakeFiles/Assignment_5.dir/UTF8string.cpp.o CMakeFiles/Assignment_5.dir/utf8.c.o  -o Assignment_5.exe -Wl,--out-implib,libAssignment_5.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

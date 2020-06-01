@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/hyr/CLionProjects/Assignment_6/box.hpp
+iostream
+-
+
+/cygdrive/c/Users/hyr/CLionProjects/Assignment_6/main.cpp
+iostream
+-
+box.hpp
+/cygdrive/c/Users/hyr/CLionProjects/Assignment_6/box.hpp
+
