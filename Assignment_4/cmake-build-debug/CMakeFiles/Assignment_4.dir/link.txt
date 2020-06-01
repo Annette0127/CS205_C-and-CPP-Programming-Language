@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Assignment_4.dir/main.cpp.o CMakeFiles/Assignment_4.dir/utf8.c.o  -o Assignment_4.exe -Wl,--out-implib,libAssignment_4.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

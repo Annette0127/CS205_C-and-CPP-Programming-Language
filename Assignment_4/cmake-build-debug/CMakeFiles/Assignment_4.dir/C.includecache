@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/hyr/CLionProjects/Assignment_4/utf8.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+ctype.h
+-
+utf8.h
+/cygdrive/c/Users/hyr/CLionProjects/Assignment_4/utf8.h
+
+/cygdrive/c/Users/hyr/CLionProjects/Assignment_4/utf8.h
+
